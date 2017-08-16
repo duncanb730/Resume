@@ -364,10 +364,14 @@
 				"images": "images/AnimalCard.jpg"	
 			},
 			{
-				"title": "Under Construction",
-				"dates": "2016",
-				"description": "As always, there are projects in the works. There should be at least two more projects and several more classes listed on this resume in the near future. Until then, have a picture of a puppy.",
-				"images": "http://lorempixel.com/640/480/animals/8"	
+				"title": "Multiple Consulting Projects",
+				"dates": "2016-2017",
+				"description": "In the past eight months I've been working on several projects, mostly as a consultant and advisor. As a consultant, I would rework a company or organization's website and show the management either an improvement or repaired feature. The client may or may not use my ideas, and implementing them would be up to whomever manages the site itself. I have worked with 6 small businesses so far, and I'm am currently beginning a consulting project with a non-profit group",
+			},
+			{
+				"title": "Entrepreneur Startup Website - Under Construction",
+				"dates": "2017",
+				"description": "I have been contacted about building a website for a new company. So far the company is little more than the gleam in someone's eye, with a full business plan just recently submitted for investors. The name of the company is still being decided, which is why I haven't been able to give the name here. I've already built a small-scall mockup website and I'm currently working on the general framework for the full site and some promotional materials. Once this company is up and running I'll update all of this information and include a screenshot."
 			}
 		]
 	}
