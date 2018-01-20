@@ -259,6 +259,13 @@
 			"location": "Nashville, TN",
 			"description": "Worked as a tax preparer in one of the more difficult regions of Nashville. Had clients from the investment, finance, entertainment, education, and medical fields. Each one had it's own difficulties and snags. Regularly worked with multiple IRS forms, including 1040, 1040ez, 1040(c), 1099, and more than a dozen other forms for investments, deductions, child support, etc. Often advised clients on minimizing tax payments and arranging necessary payments."
 		},
+		{
+			"employer": "Self Employed",
+			"title": "Web Developer",
+			"dates": "2016- Currently Employed",
+			"location": "Brentwood, CA",
+			"description": "I've been doing this for a while now and I'm generally enjoying it. It seems like every client that I've worked with is a little different and the projects I work on for them is even more different. Quite often the project I'm working on is either fixing a problem that suddenly showed up or rebuilding an existing site, but building a whole new site or new design is just as enjoyable and occaisionally challenging."
+		},
 	];
 
 	function displayWork() {
